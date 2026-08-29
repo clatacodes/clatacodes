@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+<img src="./images/readme_background.png" alt="Clata codes!" />
+</div>
 
-<!--
-**clatacodes/clatacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏻‍💻 senior @ TJHSST
+## 🌀 studying brownian motion in TJ Sys Lab
 
-Here are some ideas to get you started:
+## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; my fav repos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| name | description |
+|------|---------------|
+| [`World Cup 2026`]((https://github.com/clatacodes/worldcup2026)) | a simple ML predictor of who will win World Cup matches |
+| [`Random Latin Line`](https://clatacodes.github.io/random-latin-line/) | a website that gives a random line of latin poetry |
+| [`Clothing Identifier`](https://clatacodes.github.io/india/](https://github.com/clatacodes/clothing-identifier)) | a convolutional neural network that identifies items of clothing |
+| [`Indian Language and Religion Map`](https://clatacodes.github.io/india/) | an interactive map showing different languages and religions across the Indian subcontinent |
+
+
+
+credit to code with coco :))
