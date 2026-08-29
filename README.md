@@ -5,7 +5,7 @@
 ## 👩🏻‍💻 senior @ TJHSST
 ## 🌀 studying brownian motion in TJ Sys Lab
 
-## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; my fav repos
+## 💫 my fav repos
 
 | name | description |
 |------|---------------|
