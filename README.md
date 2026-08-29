@@ -12,7 +12,7 @@
 | [`World Cup 2026`](https://github.com/clatacodes/worldcup2026) | a simple ML predictor of who will win World Cup matches |
 | [`Random Latin Line`](https://clatacodes.github.io/random-latin-line/) | a website that gives a random line of latin poetry |
 | [`Clothing Identifier`](https://github.com/clatacodes/clothing-identifier) | a convolutional neural network that identifies items of clothing |
-| [`Indian Language and Religion Map`](https://clatacodes.github.io/india/) | an interactive map showing different languages and religions across the Indian subcontinent |
+| [`Indian Language & Religion Map`](https://clatacodes.github.io/india/) | an interactive map showing different languages and religions across the Indian subcontinent |
 
 
 
