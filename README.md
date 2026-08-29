@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./images/readme_background.png" alt="Clata codes!" />
+<img src="readme_background.png" alt="Clata codes!" />
 </div>
 
 ## 👩🏻‍💻 senior @ TJHSST
