@@ -15,7 +15,7 @@
 | [`Indian Language & Religion Map`](https://clatacodes.github.io/india/) | an interactive map showing different languages and religions across the Indian subcontinent |
 <br/>
 <br/>
-<img src="smiski.png" alt="smiski codes!" width = 160/>
+<img src="smiski.png" alt="smiski codes!" width = 160 />
 
 
 <!--credit to code with coco for inspo:))!-->
