@@ -4,7 +4,7 @@
 
 ## 👩🏻‍💻 about me:
 🎓 senior @ tjhsst <br />
-🌀 researching brownian motion in tj comp sys lab<br /> <img src="smiski.png" alt="Csmiski!" />
+🌀 researching brownian motion in tj comp sys lab<br /> 
 🫧 interested in computer science, public health, & culture
 ## 💫 fav repos
 | name | description |
@@ -14,7 +14,7 @@
 | [`Clothing Identifier`](https://github.com/clatacodes/clothing-identifier) | a convolutional neural network that identifies items of clothing |
 | [`Indian Language & Religion Map`](https://clatacodes.github.io/india/) | an interactive map showing different languages and religions across the Indian subcontinent |
 
+<img src="smiski.png" alt="smiski codes!" width = 80/>
 
 
-
-<!--credit to code with coco :))!-->
+<!--credit to code with coco for inspo:))!-->
