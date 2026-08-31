@@ -4,7 +4,7 @@
 
 ## 👩🏻‍💻 about me:
 🎓 senior @ tjhsst <br />
-🌀 researching brownian motion in tj comp sys lab<br />
+🌀 researching brownian motion in tj comp sys lab<br /> <img src="smiski.png" alt="Csmiski!" />
 🫧 interested in computer science, public health, & culture
 ## 💫 fav repos
 | name | description |
