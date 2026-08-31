@@ -13,8 +13,9 @@
 | [`Random Latin Line`](https://clatacodes.github.io/random-latin-line/) | a website that gives a random line of latin poetry |
 | [`Clothing Identifier`](https://github.com/clatacodes/clothing-identifier) | a convolutional neural network that identifies items of clothing |
 | [`Indian Language & Religion Map`](https://clatacodes.github.io/india/) | an interactive map showing different languages and religions across the Indian subcontinent |
-
-<img src="smiski.png" alt="smiski codes!" width = 80/>
+<br/>
+<br/>
+<img src="smiski.png" alt="smiski codes!" width = 160/>
 
 
 <!--credit to code with coco for inspo:))!-->
