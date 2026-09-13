@@ -6,7 +6,7 @@
 🎓 senior @ tjhsst <br />
 🌀 researching brownian motion in tj comp sys lab<br /> 
 🫧 interested in computer science, public health, & culture <br />
-🪼 coding in c++, java/javascript, python, r, html, css & c
+🪼 coding in c++, java/javascript, python, r, html, css, z shell, bash, xml, md, & c
 ## 💫 fav repos
 | name | description |
 |------|---------------|
